@@ -46,7 +46,7 @@
     <div>
         <div class="row" style="margin:0px; padding:0px;">
             <div class="col-sm font-weight-bold typing_effect" style="padding-left:15px;color:black;font-size:2.2em;text-align:center;justify-content: center;">
-             <p class="zoomIn animated" style="margin:30% auto;"> <span style="color:#ffd6d6;">T</span><span class="halfcolour"></span>The Fastest Way To Send Money</p>
+             <p class="zoomIn animated" style="margin:30% auto;"> <span style="color:#ffd6d6;">T</span><span class="halfcolour"></span>The Sparks Foundation Banking System</p>
             </div>
             <div class="col-sm">
                 <img id="square" class="slideInRight animated " height="430"src="./images/money_transfer_4.svg" alt="" style="align-self: flex-end;">
